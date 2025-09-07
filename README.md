@@ -17,8 +17,8 @@ link:https://flutter.dev/games
 Flame: open source game engine built in Flutter to expand its capabilities. Developers can pick and choose which packages of Flame they want to utilize. 
 link:https://docs.flame-engine.org/latest/
 
-Ka3D (Kajala 3D): created in 2004 by PixelGene, then bought by Rovio, the producer of Angry Birds, in 2012. Created to be highly portable and focused on Microsoft platforms. discontinued 
-https://github.com/pent0/ka3d
+Ka3D (Kajala 3D): created in 2004 by PixelGene, then bought by Rovio, the producer of Angry Birds, in 2012. Created to be highly portable and focused on Microsoft platforms. discontinued official support.
+link: https://github.com/pent0/ka3d
 
 Inkscape: Vector Graphics development software. Particularly useful for images that need to be in a variety of sizes without losing quality.
 link: https://inkscape.org/
